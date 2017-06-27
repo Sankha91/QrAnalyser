@@ -4,10 +4,13 @@ version 1.0
  
 This app helps in creating and analysing QR codes on the go.
 All the saved datas are stored locally (on the user's device) irrespective of any server.
-But don't need to get tensed if your datas are mistakenly deleted from your app, because it will still
-remain on the 'QrAnalyser' folder on your sd card.
-No data is shared automatically to any third party application without the user's consent.
+The datas which are deleted mistakenly from your app will still
+remain on the 'QrAnalyser' folder (as a backup) on your sd card or phone memory.
+No data is shared automatically to any third party application without the user's consent via QR Analyser app.
+If any data is shared or misused via user then the developer or the application will not be responsible for that.
 
-Contact:-
+For any crash report or bug related issues, you can directly reach the developer with the contact id given below.
+
+Contact :-
 Name: Sankha Ghosh
 Email id: ghoshsankha1@gmail.com
