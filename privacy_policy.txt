@@ -1,6 +1,13 @@
 Privacy Policy
 QrAnalyser android app
 version 1.0
+ 
+This app helps in creating and analysing QR codes on the go.
+All the saved datas are stored locally (on the user's device) irrespective of any server.
+But don't need to get tensed if your datas are mistakenly deleted from your app, because it will still
+remain on the 'QrAnalyser' folder on your sd card.
+No data is shared automatically to any third party application without the user's consent.
 
-This is the privacy policy for the QrAnalyser android application. This app
-helps in creating and analysing QR codes on the go.
+Contact:-
+Name: Sankha Ghosh
+Email id: ghoshsankha1@gmail.com
