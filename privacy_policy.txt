@@ -1,5 +1,5 @@
 Privacy Policy
-QrAnalyser android app
+QR Analyser android app
 version 1.0
  
 This app helps in creating and analysing QR codes on the go.
